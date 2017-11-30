@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Team Members"
+---
+
 # Team Members
 
 ## Igor Artamonov
