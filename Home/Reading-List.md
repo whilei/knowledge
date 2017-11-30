@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Reading List"
+---
+
 # Reading List
 
 What's new? What are important things to know?
