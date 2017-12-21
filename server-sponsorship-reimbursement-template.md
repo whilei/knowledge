@@ -11,5 +11,5 @@ Notes: `<OPTIONAL: Raspberry Pi geth main/morden rig>`
 
 > Thanks ETCDEV! With the aid of these funds, I'm
 > building and feeding something worthwhile.
-> :heart:
+> :hammer: :heart:
 
