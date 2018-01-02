@@ -1,26 +1,28 @@
 ### Table of Contents
 ```
 .
-├── Home
-│   ├── Engineering-Guidelines.md
-│   ├── Git-Github-Guidelines.md
-│   ├── Reading-List.md
-│   ├── Roadmap.md
-│   ├── Team-Members.md
-│   └── index.md
-├── Philosophy
-│   └── Philosophy-Our-Principles-and-Vision.md
+├── How-To-Make-A-Release
+│   ├── how-to-make-a-release.md
+│   └── sign-and-verify
+├── README.md
 ├── Team
 │   ├── Alexey-Sudachen.md
 │   ├── Constantine-Kryvomaz.md
 │   ├── Igor-Artamonov.md
 │   ├── Isaac-Ardis.md
+│   ├── Team-Members.md
 │   ├── Wei-Tang.md
 │   └── Yury-gagarin.md
 ├── bin
 │   └── tocmaker.sh
+├── engineering-guidelines.md
+├── git-github-guidelines.md
+├── philosophy-our-principles-and-vision.md
+├── reading-list.md
+├── roadmap.md
+├── server-sponsorship-reimbursement-template.md
 ├── server-sponsorship.md
 └── toc.md
 
-4 directories, 16 files
+3 directories, 19 files
 ```
