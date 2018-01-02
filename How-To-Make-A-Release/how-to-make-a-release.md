@@ -142,7 +142,7 @@ You can (re)use standard [CHANGELOG format](http://keepachangelog.com/) to outli
 
     ----
 
-I like to give a shout-out to contributors, big and small.
+I like to give a shout-out to contributors, big and small. @tzdybal's clever one-liner: `git log HASH_OR_TAG1..HASH_OR_TAG2 --no-merges | grep "^Author: " | sort | uniq`
 
 
     #### Contributors
