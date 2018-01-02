@@ -7,7 +7,7 @@
 ```shell
 # I like to use relevant news headlines from hacker news for the messages for 'planned' releases,
 # and descriptive messages for bugfix releases.
-git tag -a v1.2.3 -m "Physicists Uncover Geometric ‘Theory Space'"
+git tag -a v1.2.3 -s -m "Physicists Uncover Geometric ‘Theory Space'"
 
 # Push the tag upstream. This should trigger a new CI build.
 git push upstream v1.2.3
@@ -18,7 +18,7 @@ git push upstream v1.2.3
 ```shell
 git checkout master
 git merge -S feat/thingey
-git tag -a v1.2.3 -m "Fixed it all."
+git tag -a v1.2.3 -s -m "Fixed it all."
 git push upstream v1.2.3
 git push upstream master
 ```
