@@ -81,6 +81,11 @@ done
 
 8. Push the green button.
 
+9. If your project is on [homebrew-classic](https://github.com/ethereumproject/homebrew-classic), increment the version there too!
+
+```shell
+```
+
 
 ----
 
